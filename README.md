@@ -1,9 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/malike/driller.png?label=ready&title=Ready)](https://waffle.io/malike/driller)
 # driller
 
-**What is driller**
+**What is driller?**
 
-*Driller* is simply an assistant that helps you perform ***"READ"*** queries on databases. In a human friendly way. 
+**Driller** is simply an assistant that helps you perform **READ** queries on databases. In a *human friendly* way. 
 The main goal once driller is added to a project is :
 <br/>
 <br/>
@@ -16,7 +16,7 @@ Databases integrated to work with driller are [MongoDB](https://www.mongodb.org/
 
 
 
-**Tools**
+# Tools
 
 * [MongoDB](https://www.mongodb.org/)
 * [MySQL](https://www.mysql.com/)
@@ -25,7 +25,7 @@ Databases integrated to work with driller are [MongoDB](https://www.mongodb.org/
 * [Standford NLP](http://nlp.stanford.edu/)
 
 
-**Other Info**
+# Other Info
 
 This is a [DreamOval](http://dreaoval.com) mentorship project. 
 
