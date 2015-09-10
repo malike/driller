@@ -27,7 +27,7 @@ Databases integrated to work with driller are [MongoDB](https://www.mongodb.org/
 
 # Other Info
 
-This is a [DreamOval](http://dreaoval.com) mentorship project. 
+This is a [DreamOval](http://dreamoval.com) mentorship project. 
 
 Developers are [Raymond](https://github.com/raymondklutse) and [Mark](https://github.com/Ransford07).
 
