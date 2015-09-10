@@ -3,7 +3,7 @@
 
 **What is driller**
 
-*Driller* is simply an assistance that helps you perform ***"READ"*** queries on databases connected in a human 
+*Driller* is simply an assistant that helps you perform ***"READ"*** queries on databases. In a more human friendly  
 way. The main goal is once driller is added to a project, anyone with no knowledge of database queries would be
 able to run queries with ease.
 <br/>
