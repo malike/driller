@@ -3,16 +3,16 @@
 
 **What is driller**
 
-*Driller* is simply an assistance that helps you perform ***"READ"** queries on databases connected in a human 
+*Driller* is simply an assistance that helps you perform ***"READ"*** queries on databases connected in a human 
 way. The main goal is once driller is added to a project, anyone with no knowledge of database queries would be
 able to run queries with ease.
 <br/>
-For example : A SQL count query
+For example : A SQL count query <br/>
 `SELECT  COUNT(*) FROM user `
 would become
 `how many user?`.
 
-Databases integrated to work with driller are [MongoDB](),[MySQL]() and [ElasticSearch]().
+Databases integrated to work with driller are [MongoDB](https://www.mongodb.org/),[MySQL]((https://www.mysql.com/)) and [ElasticSearch](https://www.elastic.co/products/elasticsearch).
 
 
 
