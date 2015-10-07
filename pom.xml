@@ -11,4 +11,18 @@
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
     <name>driller</name>
+    <dependencies>
+<dependency>
+    <groupId>edu.stanford.nlp</groupId>
+    <artifactId>stanford-corenlp</artifactId>
+    <version>3.5.0</version>
+</dependency>
+<dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.0</version>
+            <type>jar</type>
+            <scope>test</scope>
+        </dependency>
+</dependencies>
 </project>
